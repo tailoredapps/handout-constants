@@ -11,6 +11,7 @@ module.exports = {
   MSG_LEVEL_RAW: 'raw',
   MSG_LEVEL_DEBUG: 'debug',
   MSG_LEVEL_ERROR: 'error',
+  MSG_LEVEL_PROCESS: 'process',
 
   PERMISSION_GRANT: 'grant',
   PERMISSION_DENY: 'deny',
