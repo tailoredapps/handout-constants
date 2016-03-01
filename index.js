@@ -5,6 +5,7 @@ module.exports = {
   ALL_TARGETS: 'all',
 
   CATEGORY_DEPLOY: 'deploy',
+  CATEGORY_INFO: 'info',
 
   MSG_LEVEL_OK: 'ok',
   MSG_LEVEL_INFO: 'info',
