@@ -1,6 +1,6 @@
 {
   "name": "handout-constants",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Constants shared between handout server and client",
   "repository": {
     "type": "git",
